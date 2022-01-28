@@ -2,8 +2,6 @@
 #### Androidアプリ (flutter)
 名古屋工業大学の学生の為のアプリ. 時間割情報を保存すると、次の授業の場所が簡単に確認できます. 
 <br>
-<img src="https://user-images.githubusercontent.com/74134260/151475846-9e8e71e7-1b7f-455a-b3ad-c23b23551205.png" width="300">
-<br>
 [Google play store](https://play.google.com/store/apps/details?id=com.c0de.nitechmap_c0de)
 
 <!--
