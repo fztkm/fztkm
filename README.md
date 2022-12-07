@@ -1,5 +1,5 @@
 # 名工大Map
-#### Androidアプリ (flutter)
+#### モバイルアプリ (Flutter)
 名古屋工業大学の学生の為のアプリ. 時間割情報を保存、授業の場所の確認、授業ごとのメモ 
 <br>
 [Google play store](https://play.google.com/store/apps/details?id=com.c0de.nitechmap_c0de)
