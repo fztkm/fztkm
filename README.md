@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/74134260/151098110-e24981c8-b795-4fd3-a0a0-bf3cd298cdf0.png" width="50"> 名工大Map
+# 名工大Map
 #### Androidアプリ (flutter)
 名古屋工業大学の学生の為のアプリ. 時間割情報を保存、授業の場所の確認、授業ごとのメモ 
 <br>
