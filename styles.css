@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#about, #skills, #projects {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f3f3f3;
+}
