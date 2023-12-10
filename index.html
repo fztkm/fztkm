@@ -1,35 +1,37 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>エンジニアの自己紹介</title>
+    <title>Takumi Fukuzawa</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
 </head>
 <body>
-    <header>
-        <h1>山田太郎</h1>
-        <p>フロントエンドエンジニア & デザイナー</p>
-    </header>
-    <section id="about">
-        <h2>自己紹介</h2>
-        <p>私はWeb開発とUI/UXデザインに情熱を持つフロントエンドエンジニアです。最新の技術を追求し、ユーザーフレンドリーなウェブサイトを作成することに重点を置いています。</p>
-    </section>
-    <section id="skills">
-        <h2>スキル</h2>
-        <ul>
-            <li>HTML/CSS</li>
-            <li>JavaScript</li>
-            <li>React</li>
-            <li>Node.js</li>
-        </ul>
-    </section>
-    <section id="projects">
-        <h2>プロジェクト</h2>
-        <!-- プロジェクトのリスト -->
-    </section>
-    <footer>
-        <p>連絡先: email@example.com</p>
-    </footer>
-    <script src="script.js"></script>
+    <!-- <div id="language-toggle">
+        <button onclick="setLanguage('en')">English</button>
+        <button onclick="setLanguage('jp')">日本語</button>
+    </div> -->
+
+    <div id="content">
+        <!-- English Content -->
+        <div id="en" class="lang">
+            <h1><img src="https://avatars.githubusercontent.com/u/74134260?v=4" alt="GitHubのアイコン画像" height="100">  Takumi Fukuzawa</h1>
+            <h2>About Me</h2>
+            <p>Institute: Nagoya Institute of Technology B4</p>
+            <p>Computer Vision, Android (Kotlin, Flutter)</p>
+            <p>Lab: <a href="https://sites.google.com/nitech.jp/tamaki-lab/">Tamaki Lab</a></p>
+            <p>Mail: <a href="mailto:t.fukuzawa.986@nitech.jp">t.fukuzawa.986@nitech.jp</a></p>
+            <p><a href="https://github.com/fztkm"><img class="logo" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub"></a></p>
+        </div>
+
+        <!-- Japanese Content -->
+        <div id="jp" class="lang" style="display:none;">
+            <h1><img src="https://avatars.githubusercontent.com/u/74134260?v=4" alt="GitHubのアイコン画像" height="100"> 福沢匠</h1>
+            <h2>名古屋工業大学B4 <a href="https://sites.google.com/nitech.jp/tamaki-lab/">玉木研</a></h2>
+            <p>Computer Vision, Android (Kotlin, Flutter)</p>
+            <p>Mail: <a href="mailto:t.fukuzawa.986@nitech.jp">t.fukuzawa.986@nitech.jp</a></p>
+            <p><a href="https://github.com/fztkm"><img class="logo" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub"></a></p>
+        </div>
+    </div>
 </body>
 </html>
