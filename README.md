@@ -23,6 +23,11 @@ An application for students of Nagoya Institute of Technology. Save timetable in
 ## Output
 ### [Survey of Video Recognition (2024)](https://hirokatsukataoka.net/temp/presen/241011VideoRecognition_MetaSurvey2024.pdf)
 Conducted a comprehensive survey of state-of-the-art research in the field of motion recognition at cvpaper.challenge, and was in charge of the “Hierarchical Features” section on slides 10p~37p.
+
+## Presentations
+- “Can masking background and object reduce static bias for zero-shot action recognition?”,  31st International Conference on Multimedia Modeling (MMM2025), 2025/1/8-10, poster
+- “静的バイアスの強弱に関わらないZero-shot動作認識手法の検討”, 第30回画像センシングシンポジウム(SSII2024), 2024/6/12-14, oral
+- “キャプション生成を用いたzero-shot動作認識”, 画像の認識・理解シンポジウム2023（MIRU2023）, 2023/7/25-28，poster
 <!--
 **fztkm/fztkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
