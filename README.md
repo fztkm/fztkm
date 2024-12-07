@@ -1,4 +1,11 @@
 # Portfolio
+
+## [Demo of Length Controllable Video Description Model](https://huggingface.co/spaces/fztkm/length_controllable_video_captioning) (Python, PyTorch, huggingface)
+Demonstration and model implementation of this paper [Nitta+, Fine-grained length controllable video captioning with ordinal embeddings, IEEE Access (accepted) ,https://doi.org/10.1109/ACCESS.2024.3506751]
+
+[Model implementation is here](https://huggingface.co/fztkm/lc_video_description_videomae_gpt2/tree/main)
+
+
 ## [Kodaisai App: university festival application](https://github.com/fztkm/Koudaisai_android)  (Android app / Jetpack compose, Kotlin)
 Used at the University Festival (2022). App for viewing event information, making reservations, and gaining admission.  
 Used by about 4,000 people on iOS and Android.
